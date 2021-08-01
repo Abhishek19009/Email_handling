@@ -1,6 +1,7 @@
 /* 
 Short script for deleting old emails using IMAP protocol
 Be careful selected emails will be deleted permanently
+To use this script you have to first turn off less secure access in your google account
 If encountered an error, mail me:- abhishek19@iiserb.ac.in 
 */
 
